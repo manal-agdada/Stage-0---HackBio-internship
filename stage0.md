@@ -5,7 +5,7 @@
 
 Author (@slack): Manal Agdada (@Manal)
 
-Github Repo: https\://github.com/manal-agdada/Stage-0---HackBio-internship
+Github Repo: [https\://github.com/manal-agdada/Stage-0---HackBio-internship](https://github.com/manal-agdada/Stage-0---HackBio-internship/blob/main/stage0.md)
 
 The TP53 gene is a tumor suppressor gene that is mutated in approximately 50% of human cancers \[1]. The TP53 gene encodes the p53 protein, which acts as a transcriptional factor by binding DNA elements in the nucleus called p53 response elements (p53REs) on the promoters of target genes to control the expression of downstream genes \[2].
 
