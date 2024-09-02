@@ -55,7 +55,6 @@ Furthermore, the ongoing advancements in genomic technologies and data analysis 
 
 8\. Morganti S, Tarantino P, Ferraro E, D'Amico P, Duso BA, Curigliano G. Next Generation Sequencing (NGS): A Revolutionary Technology in Pharmacogenomics and Personalized Medicine in Cancer. Adv Exp Med Biol. 2019;1168:9-30. 
 
-\
 
 
 <!--EndFragment-->
